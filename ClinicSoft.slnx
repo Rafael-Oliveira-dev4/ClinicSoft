@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ClinicSoft.Domain.Core/ClinicSoft.Domain.Core.csproj" />
+  <Project Path="ClinicSoft.Domain/ClinicSoft.Domain.csproj" />
+</Solution>
